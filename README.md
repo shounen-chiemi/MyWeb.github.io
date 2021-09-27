@@ -39,12 +39,12 @@
 
 **cú pháp**
 ```
-[this is a link](https://www.google.com) (link dạng in-line)
+[ez-eco](https://ezeco.com.vn/ez/) (link dạng in-line)
 [this is a link](https://www.google.com "Google's Homepage") (link dạng in-line, khi hover vào có thông báo Google's Homepage)
 ```
 
 **hiển thị**
-+ [this is a link](https://www.google.com) (link dạng in-line)
++ [ez eco](https://ezeco.com.vn/ez/) (link dạng in-line)
 + [this is a link](https://www.google.com "Google's Homepage") (link dạng in-line, khi hover vào có thông báo Google's Homepage)
 
 ## 4. Image
