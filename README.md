@@ -47,7 +47,7 @@
 **hiển thị**
 + [this is a link](https://www.google.com) (link dạng in-line)
 + [this is a link](https://www.google.com "Google's Homepage") (link dạng in-line, khi hover vào có thông báo Google's Homepage)
-+ [this is a link](../blob/master/index.jpg) (link trỏ tới thư mục khác trong cùng repository trên git)
++ [this is a link](../blob/master/index.html) (link trỏ tới thư mục khác trong cùng repository trên git)
 
 ## 4. Image
 
